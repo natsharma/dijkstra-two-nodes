@@ -1,3 +1,4 @@
 # dijkstra's algorithm, between two nodes
 shortest path between two nodes
-adjacency weighted edge matrix
+<br>
+adjacency matrix of weighted edges
